@@ -1,0 +1,79 @@
+
+body {
+    background-color: #e9e0d9;
+
+
+
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.footer__page {
+    background-color: #090a0b;
+    color: #f1e0e0;
+    /*padding: 10px;*/
+    position:sticky;
+    margin-top: 100px;
+    width:100%;
+    /*height:unset;*/
+    height: 180px;
+}
+
+.login-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-login {
+    background-color: #e10600;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+.text-cen{
+    width: 280px;
+    margin-left: 13%;
+    height: 100px;
+    background-image: url("../Lg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
